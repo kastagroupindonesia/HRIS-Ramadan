@@ -1,0 +1,39 @@
+{
+    "name": "hris",
+    "version": "1.0.0",
+    "description": "Human Resources Information System to make Ramadan more productive",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tutorialkasta/HRIS-Ramadan.git"
+    },
+    "keywords": [
+        "HRIS",
+        "Kasta",
+        "Ramadan",
+        "NodeJS",
+        "MySQL",
+        "PassportJS",
+        "ExpressJS",
+        "EJS"
+    ],
+    "author": "Irsyad Jamal Pratama Putra",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tutorialkasta/HRIS-Ramadan/issues"
+    },
+    "homepage": "https://github.com/tutorialkasta/HRIS-Ramadan#readme",
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "grunt-cli": "^1.2.0",
+        "mysql": "^2.15.0",
+        "nodemon": "^1.17.4"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.2",
+        "grunt-contrib-jshint": "^1.1.0"
+    }
+}
